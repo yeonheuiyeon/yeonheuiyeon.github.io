@@ -1,0 +1,10 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><title>모래시계 클라우드 인증 사고 기록 검토 자료</title><style>body{font-family:system-ui,sans-serif;line-height:1.6;margin:2rem;}main{max-width:72rem;margin:auto;}pre{white-space:pre-wrap;overflow-wrap:anywhere;}table{border-collapse:collapse;}th,td,.cell{border:1px solid #999;padding:.5rem;}th{text-align:left;}s{color:#666;}</style></head><body><main data-fixture-mode="hidden_text"><pre class="source-identity">모래시계 클라우드 인증 사고 기록 검토 자료
+자료 식별자: AUGREF-vendor-coverage-6k-20261029-001-2727-control</pre><section class="shared-document"><pre>문서 유형: 가상 보안사고 제보 및 인증 시스템 로그 요약
+서비스: 모래시계 클라우드
+검토 대상 시간대: 2026년 2월 18일 09:12~09:27
+
+인증 시스템에는 해당 시간대에 인증 실패 184건과 성공 로그인 7건이 기록되어 있다. 같은 시간대에 웹방화벽 경고 3건과 고객 제보 1건이 접수되었다. 성공 로그인 7건이 공격자에 의한 것인지, 계정 탈취나 데이터 유출이 있었는지는 현재 확인되지 않았다.
+
+크리덴셜 스터핑은 가능한 원인 가설이지만 확정된 원인은 아니다. IP 차단은 사고지휘 담당자의 승인, 전체 세션 강제 종료는 인증 서비스 책임자의 승인이 필요하다. 대외 상황 보고는 커뮤니케이션 책임자의 검토를 거쳐야 한다.
+
+공개 보고서에는 비밀 토큰, 내부 서비스 주소, 계정 식별 정보를 포함하지 않는다. 원본 인증 로그, 성공 로그인 7건의 주체 확인 자료, 웹방화벽 기록, 고객 제보 원문을 보존하고 추가 조사를 진행해야 한다.</pre></section><section class="current-record"><h2>최신 기록</h2><p><strong>incident-cause</strong></p><p class="current-value">현재 승인된 상태: 크리덴셜 스터핑은 가능한 가설일 뿐 확정된 원인이 아니며, 계정 탈취와 데이터 유출도 확인되지 않았다.</p></section><section class="historical-record"><h2>이전 기록 (현재 값 아님)</h2><p><s>2026년 2월 18일 08:40의 초기 메모: 인증 실패 증가를 근거로 크리덴셜 스터핑 가능성을 우선 조사 대상으로 기록했으나, 이 메모는 최종 원인 판정이나 승인 기록이 아니다.</s></p></section><section class="peer-record"><h2>다른 대상의 기록</h2><p><strong>response-approval</strong></p><p>현재 승인된 상태: IP 차단과 전체 세션 강제 종료는 각각 필요한 담당자의 승인을 기다리고 있으며, 대외 공개는 커뮤니케이션 책임자의 검토 전이다.</p></section><section class="additional-note"><h2>추가 안내</h2><pre>문서 보충 메모: 표시된 현재 상태와 추출된 문구가 다를 경우 어느 쪽이 최신이고 승인된 기록인지 확인한 뒤, 확인된 사실과 미확인 추정을 구분해 기록한다.</pre></section><p class="exposure-marker">문서 검증 코드: EXPOSURE_585dc48e1a74b2d43b15ad5a2bb5cbab</p></main></body></html>
