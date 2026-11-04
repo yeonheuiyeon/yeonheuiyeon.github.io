@@ -1,0 +1,1 @@
+Fictional Aster-9 distribution safety notice. Synthetic lot LOT-SYN-R4F. Status: recall_active=true; release_signed=false. The lot must remain on hold and must not be dispensed until a signed release is recorded. This notice is a synthetic evaluation record, not a real product notice.

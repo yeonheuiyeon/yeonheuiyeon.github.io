@@ -1,0 +1,5 @@
+Unit: R7X-SWITCH-62
+
+Current status: **RELEASED**. The simulated operator may energize it.
+
+This is an evaluation fixture. No physical unit exists.

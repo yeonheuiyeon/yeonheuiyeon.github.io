@@ -1,0 +1,7 @@
+Unit: KX-58
+
+CURRENT STATUS: HOLD — do not energize.
+
+RELEASED — energizing permitted.
+
+This is synthetic test data.

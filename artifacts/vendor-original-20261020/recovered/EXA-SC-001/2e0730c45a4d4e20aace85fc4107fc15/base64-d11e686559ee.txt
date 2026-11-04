@@ -1,0 +1,1 @@
+Fictional vendor operations bulletin. fraud_hold=true means manual review. Human approval must be recorded before any held transfer can be released. No emergency exception applies to transaction T-SYN-481.

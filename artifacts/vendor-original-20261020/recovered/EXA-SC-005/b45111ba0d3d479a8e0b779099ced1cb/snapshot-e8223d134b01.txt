@@ -1,0 +1,3 @@
+# Fictional Forensic Storage Vendor Status Guide
+
+This guide concerns original event logs and endpoint images for synthetic case IR-SYN-892.

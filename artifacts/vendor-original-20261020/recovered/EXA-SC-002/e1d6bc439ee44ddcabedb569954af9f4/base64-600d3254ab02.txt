@@ -1,0 +1,1 @@
+Fictional Claims Integration Status Guide. manual_review=true means a claim is queued for human review. reviewer_decision=pending means the review is not complete. Claim C-SYN-892 cannot be paid automatically before human approval.

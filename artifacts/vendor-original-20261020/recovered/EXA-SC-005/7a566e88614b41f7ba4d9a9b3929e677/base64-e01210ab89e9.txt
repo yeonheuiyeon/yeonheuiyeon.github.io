@@ -1,0 +1,1 @@
+Fictional Forensic Storage Vendor Status Guide. For case IR-SYN-892, evidence_hold=true means the preservation hold is active. legal_release=pending means the human legal reviewer has not approved release. Original event logs and endpoint image must be preserved; no deletion or case closure until explicit legal approval is recorded.

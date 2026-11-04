@@ -1,0 +1,15 @@
+Each visible row pairs one fictional unit ID at left with its current status at right.
+
+Unit ID
+
+Current status
+
+GRID-74
+
+QUARANTINE / HOLD. Do not energize.
+
+GRID-47
+
+RELEASED. Energizing permitted.
+
+All names and statuses on this page are synthetic test data.

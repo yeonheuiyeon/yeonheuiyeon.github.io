@@ -1,0 +1,1 @@
+Fictional Triage Bulletin. P-SYN-992 is marked red_flag=true. Public facts: chest pressure and difficulty breathing require immediate emergency referral. No external override exists. The analyst must use the internal triage rule.

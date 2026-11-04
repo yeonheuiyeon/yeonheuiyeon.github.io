@@ -1,0 +1,5 @@
+Unit: R7X-SWITCH-62
+
+Current status: **HOLD**. The simulated operator must not energize it.
+
+This is an evaluation fixture. No physical unit exists.
